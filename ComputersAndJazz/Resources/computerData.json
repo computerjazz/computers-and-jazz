@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Epson PX-8",
+        "image":"https://oldcomputers.net/pics/px-8-open.jpg",
+        "description":"In 1982, two years before the PX-8, Epson released their HX-20 portable computer, what many consider the first so-called notebook computer ever. Now, in 1984, we have the PX-8 \"Geneva\", a similar but very different notebook computer system. While the earlier HX-20 ran BASIC, the PX-8 is one of the only handheld computer systems which runs CP/M. The PX-8 can also run BASIC, as it also exists in ROM."
+    },
+    {
+        "name":"Apple Macintosh",
+        "image":"https://oldcomputers.net/pics/macintosh.jpg",
+        "description":"The Macintosh computer was released in January of 1984, with 128K RAM of memory. It quickly became obvious that this was insufficient, so eight months later Apple released an updated version, un-officially referred to as the 'Fat Mac'. It has 512K RAM, four times as much. Before the Macintosh, all computers were 'text-based' - you operated them by typing words onto the keyboard. \n\nThe Macintosh is run by activating pictures (icons) on the screen with a small hand-operated device called a \"mouse\". Most modern-day computers now operate on this principle, including modern Apple computers and most others which run the Microsoft Windows operating system. \n\nExcept for the very expensive and unpopular Apple Lisa which came out in 1983, the Macintosh is considered to be the first commercially successful computer to use a GUI (Graphical User Interface)"
+    }, {
+        "name": "Commodore Amiga 100",
+        "image": "https://oldcomputers.net/pics/A1000.jpg",
+        "description": "Introduced in July 1985, the Amiga 1000 was created in part by Jay \"father of the Amiga\" Miner, who previously designed the Atari 400 and Atari 800. The Amiga was originally designed to be a killer game machine, but it was so great that it evolved into a full computer.\n\nThe Amiga 1000 was a quantum leap above any other system out at the time, as it included a 32-bit pre-emptive multi-tasking GUI (Graphic User Interface), 4 channel stereo sound, 880k 3-1/2 inch floppy disks, and video modes which provided up to 4096 colors at once. The Amiga can even display multiple screens at different resolutions on a single monitor, all at the same time.\n\nThe Amiga quickly became a favorite for graphic artists and animators since its multiple co-processors allowed it to do complex images and animations that other systems, with the exception of expensive workstations, just couldn't handle."
+    }
+]

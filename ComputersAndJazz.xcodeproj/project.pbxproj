@@ -7,19 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6004BB8F273DEB7800A31F1C /* GestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6004BB8E273DEB7800A31F1C /* GestureView.swift */; };
 		603AC7DF2722348A002D8436 /* ComputersAndJazzApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603AC7DE2722348A002D8436 /* ComputersAndJazzApp.swift */; };
 		603AC7E12722348A002D8436 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603AC7E02722348A002D8436 /* ContentView.swift */; };
 		603AC7E32722348C002D8436 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 603AC7E22722348C002D8436 /* Assets.xcassets */; };
 		603AC7E62722348C002D8436 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 603AC7E52722348C002D8436 /* Preview Assets.xcassets */; };
+		603AC7F0272238E0002D8436 /* JazzList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603AC7EF272238E0002D8436 /* JazzList.swift */; };
+		6042886627359D1800322BC5 /* computerData.json in Resources */ = {isa = PBXBuildFile; fileRef = 6042886527359D1800322BC5 /* computerData.json */; };
+		6042886827359E0300322BC5 /* computerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6042886727359E0300322BC5 /* computerModel.swift */; };
+		6042886A27359EB200322BC5 /* ComputerModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6042886927359EB200322BC5 /* ComputerModelData.swift */; };
+		6042886C2735A87700322BC5 /* JazzDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6042886B2735A87700322BC5 /* JazzDetail.swift */; };
+		60BBD2F6272B5B8E00022669 /* ComputersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBD2F5272B5B8E00022669 /* ComputersList.swift */; };
+		60BBD2F8272B5D8500022669 /* artistModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBD2F7272B5D8500022669 /* artistModel.swift */; };
+		60BBD2FA272B5E3300022669 /* artistViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBD2F9272B5E3300022669 /* artistViewModel.swift */; };
+		60BBD2FD272B662A00022669 /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBD2FC272B662A00022669 /* RemoteImage.swift */; };
+		60BBD2FF272B689600022669 /* JazzModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBD2FE272B689600022669 /* JazzModelData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6004BB8E273DEB7800A31F1C /* GestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureView.swift; sourceTree = "<group>"; };
 		603AC7DB2722348A002D8436 /* ComputersAndJazz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ComputersAndJazz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		603AC7DE2722348A002D8436 /* ComputersAndJazzApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComputersAndJazzApp.swift; sourceTree = "<group>"; };
 		603AC7E02722348A002D8436 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		603AC7E22722348C002D8436 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		603AC7E52722348C002D8436 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		603AC7E72722348C002D8436 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		603AC7EF272238E0002D8436 /* JazzList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JazzList.swift; sourceTree = "<group>"; };
+		6042886527359D1800322BC5 /* computerData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = computerData.json; sourceTree = "<group>"; };
+		6042886727359E0300322BC5 /* computerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = computerModel.swift; sourceTree = "<group>"; };
+		6042886927359EB200322BC5 /* ComputerModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComputerModelData.swift; sourceTree = "<group>"; };
+		6042886B2735A87700322BC5 /* JazzDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JazzDetail.swift; sourceTree = "<group>"; };
+		60BBD2F5272B5B8E00022669 /* ComputersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComputersList.swift; sourceTree = "<group>"; };
+		60BBD2F7272B5D8500022669 /* artistModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = artistModel.swift; sourceTree = "<group>"; };
+		60BBD2F9272B5E3300022669 /* artistViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = artistViewModel.swift; sourceTree = "<group>"; };
+		60BBD2FC272B662A00022669 /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
+		60BBD2FE272B689600022669 /* JazzModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JazzModelData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +74,9 @@
 		603AC7DD2722348A002D8436 /* ComputersAndJazz */ = {
 			isa = PBXGroup;
 			children = (
+				6042886427359CFE00322BC5 /* Resources */,
+				603AC7EE272238C7002D8436 /* Models */,
+				603AC7ED27223845002D8436 /* Views */,
 				603AC7DE2722348A002D8436 /* ComputersAndJazzApp.swift */,
 				603AC7E02722348A002D8436 /* ContentView.swift */,
 				603AC7E22722348C002D8436 /* Assets.xcassets */,
@@ -67,6 +92,46 @@
 				603AC7E52722348C002D8436 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		603AC7ED27223845002D8436 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				60BBD2FB272B662100022669 /* Helpers */,
+				603AC7EF272238E0002D8436 /* JazzList.swift */,
+				6042886B2735A87700322BC5 /* JazzDetail.swift */,
+				60BBD2F5272B5B8E00022669 /* ComputersList.swift */,
+				6004BB8E273DEB7800A31F1C /* GestureView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		603AC7EE272238C7002D8436 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				60BBD2F7272B5D8500022669 /* artistModel.swift */,
+				60BBD2F9272B5E3300022669 /* artistViewModel.swift */,
+				60BBD2FE272B689600022669 /* JazzModelData.swift */,
+				6042886727359E0300322BC5 /* computerModel.swift */,
+				6042886927359EB200322BC5 /* ComputerModelData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		6042886427359CFE00322BC5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6042886527359D1800322BC5 /* computerData.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		60BBD2FB272B662100022669 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				60BBD2FC272B662A00022669 /* RemoteImage.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6042886627359D1800322BC5 /* computerData.json in Resources */,
 				603AC7E62722348C002D8436 /* Preview Assets.xcassets in Resources */,
 				603AC7E32722348C002D8436 /* Assets.xcassets in Resources */,
 			);
@@ -139,7 +205,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				603AC7E12722348A002D8436 /* ContentView.swift in Sources */,
+				6042886C2735A87700322BC5 /* JazzDetail.swift in Sources */,
+				6042886827359E0300322BC5 /* computerModel.swift in Sources */,
 				603AC7DF2722348A002D8436 /* ComputersAndJazzApp.swift in Sources */,
+				60BBD2FD272B662A00022669 /* RemoteImage.swift in Sources */,
+				6042886A27359EB200322BC5 /* ComputerModelData.swift in Sources */,
+				60BBD2F6272B5B8E00022669 /* ComputersList.swift in Sources */,
+				60BBD2FA272B5E3300022669 /* artistViewModel.swift in Sources */,
+				60BBD2FF272B689600022669 /* JazzModelData.swift in Sources */,
+				6004BB8F273DEB7800A31F1C /* GestureView.swift in Sources */,
+				60BBD2F8272B5D8500022669 /* artistModel.swift in Sources */,
+				603AC7F0272238E0002D8436 /* JazzList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
